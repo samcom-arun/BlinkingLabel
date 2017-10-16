@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = 'This CocoaPod description is a sample test description created for testing purpose of blinking the label'
-  s.homepage         = 'https://github.com/Arun/BlinkingLabel'
+  s.homepage         = 'https://github.com/samcom-arun/BlinkingLabel'
   s.screenshots     = 'https://timedotcom.files.wordpress.com/2017/06/kit-harington-got.jpg'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Arun' => 'samcom.arun@gmail.com' }
